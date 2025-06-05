@@ -1,0 +1,73 @@
+name: Piotr Guziorski
+experience:
+  - role: Enterprise Architect
+    company: Robert Bosch Mobility
+    location: Poland
+    start: 2024-06-01
+    end: Present
+    details:
+      - Support company wide projects in context of architecture and business capabilities
+      - Design and support for architecture assessments
+      - Support research and development in context of AI technologies
+  - role: Product Manager
+    company: Robert Bosch
+    location: Poland
+    start: 2019-05-01
+    end: 2024-06-01
+    details:
+      - Lead product team (13+ members)
+      - Design and development of product vision, positioning and usage research
+      - Support product business cases development and technical architecture
+  - role: Senior Software Developer
+    company: Robert Bosch
+    location: Poland
+    start: 2017-09-01
+    end: 2019-05-01
+    details:
+      - Lead software developer for small project team
+      - Design and development of data models
+      - Support for user centric design (UX Advocate)
+education:
+  - school: Warsaw University of Technology
+    degree: Post graduate studies - Software engineering
+    start: 2009-01
+    end: 2010-01
+    details:
+      - Design of jBPM based, event driven workflow engine
+  - school: Silesian University of Technology
+    degree: Master's degree - Information processing and control systems in biotechnology
+    start: 2006-01
+    end: 2008-06
+    details:
+      - Collaboration with Institute of Oncology (Machine learning for cancer detection)
+      - Collaboration with Polish Artificial Heart Program (Image recognition in real time)
+skills:
+  - JavaScript
+  - jQuery
+  - JavaSE
+  - JavaEE
+  - JPA
+  - C++
+  - JBoss/Wildfly
+  - Tomcat
+  - MSSQL
+  - TFS
+  - Git
+  - SVN
+  - Eclipse
+  - Visual Studio
+  - SOAP/REST
+  - Agile/SCRUM
+  - Test Driven Development
+  - Pair Programming
+achievements:
+  - Participant, mentor and speaker on multiple events such as Hackyeah, Google Wawcode, 4Developers Conference, PM Days @ SGH, Warsaw Scrum Meetup
+  - Bosch Design Challenge 2017 at R&D center in Renningen - preparing concept for pain free insulin measurement
+  - Certification path in UX (Amsterdam/London) - 9 workshops and exams finished with certificate
+  - Participation in UX Design Camps and internal design thinking trainings
+  - Collaboration with Institute of Oncology in Gliwice - development of multiclass thyroid cancer detection software (Machine learning, MSVM)
+contact:
+  email: piotr.guziorski@example.com
+  github: https://github.com/piotguz
+  linkedin: https://www.linkedin.com/in/piotrguziorski/
+  facebook: https://www.facebook.com/piotr.guziorski
